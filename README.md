@@ -1,5 +1,7 @@
 # 6-Link Mechanism Analysis
 
+![Project Diagram](Mechanism.jpg)
+
 ## Project Description
 This project involves comprehensive kinematic analysis of a chosen mechanism using polar analysis methods to determine position, velocity, and acceleration throughout a full motion cycle.
 
@@ -24,14 +26,14 @@ This project involves comprehensive kinematic analysis of a chosen mechanism usi
 ### 3. Mechanism Animation
 - Create dynamic animation using:
   - Linkage
+    ![Project Diagram](Mechanism_Linkage.png)
 - Demonstrate mechanism behavior
 
 ### 4. Verification
 - Cross-validate results using:
   - **Graphical Solution** (AutoCAD)
+    ![Project Diagram](Mechanism_CAD.png)
   - **Analytical Solution** (Polar Analysis)
-  - **Animated System** outputs
-- Focus on one specific configuration
 
 
 ## How to run
